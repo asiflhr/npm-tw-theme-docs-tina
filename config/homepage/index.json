@@ -1,11 +1,13 @@
 {
   "label": "Homepage",
-  "title": "Hello from Tina + Docusaurus!",
-  "description": "Description will go into a meta tag in <head />",
+  "title": "Next TailwindCSS Theme",
+  "description": "A ReactJS/NextJS supported customizable default theme using Tailwind CSS.",
   "blocks": [
     {
+      "title": "Next TailwindCSS Theme",
+      "subtitle": "A ReactJS/NextJS supported customizable default theme using Tailwind CSS.",
       "document": "docs/intro.mdx",
-      "documentLabel": "Docusaurus Tutorial - 5min ⏱️",
+      "documentLabel": "Visit NPM",
       "_template": "hero"
     },
     {
@@ -13,17 +15,17 @@
         {
           "title": "Easy to Use",
           "description": "Docusaurus was designed from the ground up to be easily installed and         used to get your website up and running quickly.\n",
-          "image": "/img/undraw_docusaurus_mountain.svg"
+          "image": "/img/undraw_User_flow_re_bvfx.png"
         },
         {
-          "title": "Focus on What Matters",
+          "title": "Multi-Framework Support",
           "description": "Docusaurus lets you focus on your docs, and we'll do the chores. Go ahead and move your docs into the docs directory.\n",
-          "image": "/img/undraw_docusaurus_tree.svg"
+          "image": "/img/undraw_Setup_wizard_re_nday.png"
         },
         {
-          "title": "Powered by React",
+          "title": "Highly customizable",
           "description": "Extend or customize your website layout by reusing React. Docusaurus can         be extended while reusing the same header and footer.\n",
-          "image": "/img/undraw_docusaurus_react.svg"
+          "image": "/img/undraw_tailwind_css_1egw.png"
         }
       ],
       "_template": "features"
